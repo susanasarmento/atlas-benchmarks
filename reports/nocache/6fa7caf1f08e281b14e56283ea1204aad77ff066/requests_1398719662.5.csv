@@ -1,0 +1,5 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/",73,0,19,20,0,42,28199,0.26
+"GET","/about/",54,0,17,19,0,43,25332,0.19
+"GET","/api/export/usa/all/show/2012/?lang=en&amp;product_classification=hs4&amp;data_type=json&amp;single_year=true",52,0,1900,1881,0,2220,9372045,0.19
+"None","Total",179,0,20,560,0,2220,2741747,0.64
